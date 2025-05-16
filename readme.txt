@@ -39,12 +39,21 @@ Covered Topics
 2. Design Patterns - Repo
   2.1 Behavioral
     2.1.1 Observer
-    2.1.2 Strategy (Dynamic Cast)
+      2.1.1.1 Observer.hpp
+      2.1.1.2 Subject.hpp
+      2.1.1.3 main.cpp
+    2.1.2 Strategy
+      2.1.2.1 strategy_pattern__payment_method-dynamic_cast.cpp
+      2.1.2.2 strategy_pattern__payment_method.cpp
   2.2 Creational
     2.2.1 Factory
+      2.2.1.1 Factory.hpp
+      2.2.1.2 WindowObject.hpp
+      2.2.1.3 main.cpp
     2.2.2 Singleton
   2.3 Structural
     2.3.1 Adapter
+      2.3.1.1 adapter.cpp
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
