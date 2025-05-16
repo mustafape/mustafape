@@ -49,7 +49,7 @@ Covered Topics
     2.2.1 Factory
       2.2.1.1 Factory.hpp
       2.2.1.2 WindowObject.hpp
-      2.2.1.3 main.cpp
+      2.2.1.3 main.cpp (dynamic_cast demo is also added)
     2.2.2 Singleton
   2.3 Structural
     2.3.1 Adapter
