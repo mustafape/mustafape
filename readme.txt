@@ -11,6 +11,7 @@ Covered Topics
       1.2.1.3 VirtualFunctions.cpp
     1.2.2 Debugging
       1.2.2.1 MessageOrders.cpp
+      1.2.2.2 OverloadingOstreamOperator.cpp
     1.2.3 Strings
       1.2.3.1 AttributeParser_04.cpp
   1.3 Hash Tables: Ransom Note
