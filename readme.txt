@@ -19,6 +19,7 @@ Covered Topics
   1.4 OtherConcepts
     1.4.1 OperatorOverloading.cpp
     1.4.2 attending_workshops.cpp
+    1.4.3 CPPClassTemplateSpecialization.cpp
   1.5 SQL
     1.5.1 Aggregation
       1.5.1.1 Weather Observation Station 2.sql
