@@ -33,7 +33,7 @@ Covered Topics
       1.7.1.1 day12-inheritance.cpp
       1.7.1.2 day13-abstract-classes.cpp
       1.7.1.3 day18-queues_and_stacks.cpp
-      1.7.1.4 day28-regex-patterns-intro_to_databases-v3.0.cpp
+      1.7.1.4 day28-regex-patterns-intro_to_databases-v3.0.cpp (more structural approach to utilize classes, patterns, lambdas, smart pointers)
       1.7.1.5 day28-regex-patterns-intro_to_databases-with-strategy_pattern.cpp
       1.7.1.6 day28-regex-patterns-intro_to_databases.cpp
       1.7.1.7 day8_dictionaries_and_maps.cpp
@@ -59,4 +59,4 @@ Covered Topics
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
-  3.2 AttributeParser_06.cpp
+  3.2 AttributeParser_06.cpp (singleton pattern and callback demo)
