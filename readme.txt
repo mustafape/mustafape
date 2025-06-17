@@ -59,3 +59,4 @@ Covered Topics
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
+  3.2 AttributeParser_06.cpp
