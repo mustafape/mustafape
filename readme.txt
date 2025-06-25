@@ -60,3 +60,7 @@ Covered Topics
 3. mustafape - Repo
   3.1 LambdaExample.cpp
   3.2 AttributeParser_06.cpp (singleton pattern and callback demo)
+  3.3 This file
+
+4. my-leetcode-solutions - Repo
+  4.1 630.Course Schedule III.cpp
