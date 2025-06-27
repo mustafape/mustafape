@@ -56,6 +56,8 @@ Covered Topics
   2.3 Structural
     2.3.1 Adapter
       2.3.1.1 adapter.cpp
+    2.3.2 Facade
+      2.3.2.1 facade.cpp
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
