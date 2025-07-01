@@ -58,6 +58,8 @@ Covered Topics
       2.3.1.1 adapter.cpp
     2.3.2 Facade
       2.3.2.1 facade.cpp
+    2.3.3 Decorator
+      2.3.3.1 decorator.cpp (smart pointers is also used)
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
