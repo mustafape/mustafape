@@ -53,6 +53,9 @@ Covered Topics
       2.2.1.2 WindowObject.hpp
       2.2.1.3 main.cpp (dynamic_cast demo is also added)
     2.2.2 Singleton
+      2.2.2.1 singleton_pattern.cpp
+    2.2.3 Builder
+      2.2.3.1 buider.cpp
   2.3 Structural
     2.3.1 Adapter
       2.3.1.1 adapter.cpp
