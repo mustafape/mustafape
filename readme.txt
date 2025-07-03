@@ -1,4 +1,4 @@
-Covered Topics
+This file lists public repositories along with the files they contain. For some files, it also includes the topics they cover.
 
 1. Hackerrank Solutions - Repo
   1.1 Algorithms
