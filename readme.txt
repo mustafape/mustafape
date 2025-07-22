@@ -57,6 +57,8 @@ Happy to maintain my Github profile.
       2.2.2.1 singleton_pattern.cpp
     2.2.3 Builder
       2.2.3.1 buider.cpp
+    2.2.4 Prototype
+      2.2.4.1 prototype.cpp
   2.3 Structural
     2.3.1 Adapter
       2.3.1.1 adapter.cpp
