@@ -80,3 +80,8 @@ Happy to maintain my Github profile.
 
 4. my-leetcode-solutions - Repo
   4.1 630.Course Schedule III.cpp
+
+5. nl-journal - Repo
+  5.1 journal
+  5.2 vocab
+
