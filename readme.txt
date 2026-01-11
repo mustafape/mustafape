@@ -83,5 +83,6 @@ Happy to maintain my Github profile.
 
 5. nl-journal - Repo
   5.1 journal
+    5.1.1 journal0000.md
   5.2 vocab
-
+    5.2.1 journal0000.csv
