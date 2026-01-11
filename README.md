@@ -3,6 +3,11 @@
 
 I’m Mustafa Peker, a **Senior Project Manager** with a solid technical foundation in **C++ software development** and **technical project management**. I currently lead strategic initiatives within the **ASML program**, focusing on project governance, process optimization, compliance, and driving innovative solutions.
 
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mustafapeker/)
+- [HackerRank](https://www.hackerrank.com/profile/mustafakpeker)
+
 ## 🌟 Highlights
 - Certified in **Industry L2**, **Connected Manager**, and **Emotional Intelligence**.
 - **PSM I** (Professional Scrum Master) and **PSPO I** (Professional Scrum Product Owner) certified.
