@@ -86,7 +86,9 @@ Happy to maintain my Github profile.
     5.1.1 journal0000.md
     5.1.2 journal0001.md
     5.1.3 journal0002.md
+    5.1.4 journal0003.md
   5.2 vocab
     5.2.1 journal0000.csv
     5.2.2 journal0001.csv
     5.2.3 journal0002.csv
+    5.2.4 journal0003.csv
