@@ -52,6 +52,8 @@ Happy to maintain my Github profile.
       2.1.3.1 visitor.cpp
     2.1.4 Chain of Responsibility
       2.1.4.1 chain_of_responsibility.cpp
+    2.1.5 Visitor visitor.cpp
+      2.1.5.1 
 2.2 Creational
     2.2.1 Factory
       2.2.1.1 Factory.hpp
