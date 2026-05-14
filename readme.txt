@@ -76,6 +76,8 @@ Happy to maintain my Github profile.
       2.3.4.1 composite.cpp (smart pointers is also used)
     2.3.5 Bridge
       2.3.5.1 bridge.cpp (smart pointers is also used)
+    2.3.6 Bridge
+      2.3.6.1 proxy.cpp (smart pointers is also used)
 
 3. mustafape - Repo
   3.1 LambdaExample.cpp
